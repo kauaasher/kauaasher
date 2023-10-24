@@ -19,7 +19,6 @@
 ### Estudando neste momento:
 ![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
 
-
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kauaasher}/count.svg" /></p> 
