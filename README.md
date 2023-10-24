@@ -19,7 +19,6 @@
 ### Estudando neste momento:
 ![JAVA](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=DAA520)&nbsp;
 
-![Snake animation](https://github.com/kauaasher/kauaasher/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
